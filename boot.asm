@@ -8,7 +8,6 @@ call print_nl
 jmp $
 
 %include "print.asm"
-;%include "print_hex.asm"
 
 
 ; data
