@@ -5,7 +5,8 @@
 > - [nasm](https://www.nasm.us/)  
 
 <br>
-*Amogus*
+*Amogus*<br>
+ahahhah when the os is sus!?! amogos. ding ding ding ding ding..
 <br><br>
 
 Boot with commands  
